@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-# FyBy-login
+## FyBy-login
 login ui in flutter
-=======
-# login
 
+## login
 A new Flutter application.
+
+## Screenshots
+<img src="images/light_login.png" height="450" width="auto"><img src="images/dark_login.png" height="450" width="auto">
+<img src="images/light_movies.png" height="450" width="auto"><img src="images/dark_movies.png" height="450" width="auto">
 
 ## Getting Started
 
